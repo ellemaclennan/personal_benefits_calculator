@@ -32,8 +32,6 @@ It generates heatmaps that visualize which plan is most cost-effective under var
     Therefore, the best healthcare plan for my specific scenario is Gold at $2,400.00
     ```
 
-Therefore, the best healthcare plan for my specific scenario is Gold at $2,400.00
-
 **Sensitivity Matrix -  Calculates total yearly cost across combinations of:**
 
 - Specialist visits per year
@@ -184,5 +182,6 @@ Elle MacLennan
 
 
 **Last Updated:** November 2025  
+
 
 
