@@ -151,8 +151,9 @@ From a terminal or VS Code:
 ```
 jupyter notebook health_plan_heatmaps.ipynb
 ```
+4. Change the variables to your specific healthcare needs. Refer to ``Customizing the Analysis`` section.
 
-3. Click Run -> Run all Cells
+5. Click Run -> Run all Cells
 
 ## License
 
