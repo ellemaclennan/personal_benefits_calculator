@@ -22,6 +22,18 @@ It generates heatmaps that visualize which plan is most cost-effective under var
 
 - Prints the lowest cost plan based on these parameters
 
+    My results (based on my prescriptions and provider visits)
+    ```
+    The costs for my specific scenario across different plans are:
+    Platinum: $4,439.52
+    Gold: $2,400.00
+    Silver: $3,330.00
+
+    Therefore, the best healthcare plan for my specific scenario is Gold at $2,400.00
+    ```
+
+Therefore, the best healthcare plan for my specific scenario is Gold at $2,400.00
+
 **Sensitivity Matrix -  Calculates total yearly cost across combinations of:**
 
 - Specialist visits per year
@@ -172,4 +184,5 @@ Elle MacLennan
 
 
 **Last Updated:** November 2025  
+
 
