@@ -134,6 +134,8 @@ major_event_cost = 1200 #gave myself a $1200 budget for a small accident
 4. **Network Restrictions:** Assumes all providers are in-network.
 
 5. **Other Services:** Doesn't model primary care visits, lab tests, imaging, or other services separately.
+   
+6. **HSA Use:** Assumes entirety of HSA goes towards healthcare costs. Investment accounting is not modeled. 
 
 ## Installation & Setup
 1. Clone Repository.
@@ -170,3 +172,4 @@ Elle MacLennan
 
 
 **Last Updated:** November 2025  
+
