@@ -136,15 +136,16 @@ major_event_cost = 1200 #gave myself a $1200 budget for a small accident
 5. **Other Services:** Doesn't model primary care visits, lab tests, imaging, or other services separately.
 
 ## Installation & Setup
-
-1. **Install Dependencies**
+1. Clone Repository.
+   
+2. **Install Dependencies**
 
 Make sure you have Python ≥3.10 and these packages installed:
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter
 ```
 
-2. Open the Notebook
+3. Open the Notebook
 
 From a terminal or VS Code:
 ```
@@ -165,5 +166,6 @@ This analysis is for informational purposes only and should not be considered fi
 Elle MacLennan
 
 ---
+
 
 **Last Updated:** November 2025  
