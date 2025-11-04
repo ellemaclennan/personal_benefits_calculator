@@ -95,8 +95,8 @@ It generates heatmaps that visualize which plan is most cost-effective under var
 Modify these ranges to explore different scenarios:
 
 ```python
-specialist_visits = list(range(0, 36, 3))  # 0, 3, 6, 9... 24 visits
-rx_fills = list(range(0, 48, 3))            # 0, 3, 6, 9... 24 fills
+specialist_visits = list(range(0, 36, 3))  # 0, 3, 6, 9... 36 visits
+rx_fills = list(range(0, 48, 3))            # 0, 3, 6, 9... 48 fills
 major_event_costs = [0, 4500, 9000]         # Different event cost scenarios
 ```
 
@@ -182,6 +182,7 @@ Elle MacLennan
 
 
 **Last Updated:** November 2025  
+
 
 
 
